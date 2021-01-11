@@ -1,0 +1,6 @@
+channels:
+  - bioconda
+  - defaults
+  - conda-forge
+dependencies:
+  - qiime2-core==2020.8.0
