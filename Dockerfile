@@ -1,6 +1,6 @@
 ## Use a tag instead of "latest" for reproducibility
 FROM rocker/binder:4.0.3
-ARG NB_USER=jovyan
+ARG NB_USER=rstudio
 ENV HOME /home/${NB_USER}
 # Copy repo into ${HOME}, make user own $HOME
 USER root
