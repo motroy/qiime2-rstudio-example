@@ -1,4 +1,0 @@
-#!/bin/bash
-set -e
-apt update && apt install -y gcc-4.9
-apt upgrade -y libstdc++6
