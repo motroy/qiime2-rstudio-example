@@ -1,3 +1,4 @@
+apt-utils
 gcc
 zlib1g-dev
 libxml2-dev
