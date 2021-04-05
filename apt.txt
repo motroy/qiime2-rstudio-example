@@ -6,3 +6,6 @@ libcurl4-openssl-dev
 libssl-dev
 libglpk-dev
 libstdc++6
+libbz2-dev
+liblzma-dev
+libxt6
